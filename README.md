@@ -180,7 +180,8 @@ This project is licensed under the **MIT License**.
 
 ### Jaweid Moraadi
 
-Computer Science Student | Network & Cybersecurity Enthusiast
+Computer Science Student at kabul uniersity ICT FACULTY ISE department 
+Network & Cybersecurity Enthusiast
 
 * Networking
 * Cybersecurity
